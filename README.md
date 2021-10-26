@@ -1,5 +1,6 @@
-# ROS
-FOLLOW TURTTLE 
+# ROS FOLLOW TURTTLE 
+
+
 İki Turttle bulunmakta birisi sabit linnear ve angular hızda gitmekte bir diğeri ise sabit hızda giden Turttle 'ı yakalamaktadır.
 
 Bu yakalama işleminde belli bir mesefade takip etmesi gerekmektedir. Hız değerleri .json dosyası içinden okunarak işlenmektedir.
@@ -14,6 +15,7 @@ programa ait görseller:
 
 
 ----------------------------------------
+# ROS Kalman
 
 Gazebo üzerinde Turtlebot3 Burger diferansiyel sürüş bir robot kullanılmışıtır.
 IMU ve GPS verisini kullanarak robotun konumlandırılması yapılmışıtır. Bunun için Kalman Filtresi 
